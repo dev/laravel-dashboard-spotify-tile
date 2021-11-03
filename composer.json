@@ -1,11 +1,11 @@
 {
-    "name": "ashbakernz/laravel-dashboard-spotify-tile",
+    "name": "dev/laravel-dashboard-spotify-tile",
     "description": "Displays data from spotfiy on a tile for spatie/laravel-dashboard",
     "keywords": [
         "ashbakernz",
         "laravel-dashboard-spotify-tile"
     ],
-    "homepage": "https://github.com/ashbakernz/laravel-dashboard-spotify-tile",
+    "homepage": "https://github.com/dev/laravel-dashboard-spotify-tile",
     "license": "MIT",
     "authors": [
         {
